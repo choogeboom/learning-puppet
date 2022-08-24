@@ -1,0 +1,1 @@
+Just my scratch repo for following along with [Learning Puppet by Josh Samuelson](https://www.linkedin.com/learning/learning-puppet?u=85880466) on linkedin learning.
