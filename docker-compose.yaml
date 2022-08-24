@@ -1,0 +1,8 @@
+version: "3.4"
+services:
+  puppet:
+    image: puppet/puppetserver
+    hostname: puppet
+    container_name: puppet
+    volumes:
+      - ./:/app
