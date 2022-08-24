@@ -6,3 +6,4 @@ services:
     container_name: puppet
     volumes:
       - ./:/app
+      - ./r10k.yaml:/etc/puppetlabs/r10k/r10k.yaml
